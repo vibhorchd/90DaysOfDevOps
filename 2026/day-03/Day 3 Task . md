@@ -1,0 +1,22 @@
+basic Commands of Devops
+
+1.pwd - present working directory 
+2.ls -
+3.unmae
+4.mv - move the file / name chane
+5.cp- to copy the file
+6.cd - change directory
+7.clear - clear all the screen 
+8.history - list down the history of commands 
+9.cd .. - to go back to the previus directory
+10.nohuop - no hang up it is used to run process in bacground
+11. touch crete file in a directory
+12.makdir - used to create new directory 
+13.no of directro mkdir / name(1...10)
+14. ping - to test the contivity 
+15.ipconfig - tell the ip address of the user 
+16- kill -9 force kill the 
+17- systemctl start - to start the service 
+18-systemcetl stop- stop the service 
+19-df -kh to check the disk space 
+20-tail -f to ceck the logs 
